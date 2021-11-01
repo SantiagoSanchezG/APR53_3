@@ -1,11 +1,11 @@
-// Números romanos
+// Nï¿½meros romanos
 //
-//  Representar cualquier valor numérico en números Romanos, teniendo en cuenta todas
-// las reglas de dicho sistema de representación numérica
+//  Representar cualquier valor numï¿½rico en nï¿½meros Romanos, teniendo en cuenta todas
+// las reglas de dicho sistema de representaciï¿½n numï¿½rica
 //
-// Realizado por: Santiago Sánchez Grisales
+// Realizado por: Santiago Sï¿½nchez Grisales
 //         Email: santiagosanchez309942@correo.itm.edu.co
-// Versión 1.0, septiembre del 2021
+// Versiï¿½n 1.0, octubre del 2021
 
 #include <iostream>
 #include <conio.h>
@@ -24,7 +24,7 @@ int main(){
 	// mil = millares
 	int num,uni,dec,cen,mil;
 
-	//Captura y valida el número dado por el usuario
+	//Captura y valida el nï¿½mero dado por el usuario
 	do{
 	cout<<"********** N"<<char(163)<<"MEROS ROMANOS **********\n"<<endl;
 	if(logic){
@@ -55,7 +55,7 @@ int main(){
 	}
 	system("cls");
 	}while(logic);
-	num = atoi(numm); // Una vez validado es tranformado a número (int)
+	num = atoi(numm); // Una vez validado es tranformado a nï¿½mero (int)
 
     cout<<"********** N"<<char(163)<<"MEROS ROMANOS **********\n"<<endl;
 	cout<<"Su n"<<char(163)<<"mero en romano es: ";
