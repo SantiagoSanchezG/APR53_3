@@ -4,7 +4,7 @@
 //
 // Realizado por: Santiago Sánchez Grisales
 //         Email: santiagosanchez309942@correo.itm.edu.co
-// Versión 1.0, septiembre del 2021
+// Versión 1.0, octubre del 2021
 
 #include <iostream>
 
